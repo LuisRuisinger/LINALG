@@ -80,4 +80,4 @@
 Allg. $0$-te Wurzel ist nicht definiert
 
 - $\sqrt[n]z\Rightarrow n$ Lösungen
-- $z_k:=\sqrt[n]r(cos(\frac{\varphi+2\pi\cdot k}{n})+i\cdot sin(\frac{\varphi+2\pi\cdot k}{n}))$ beschreibt die $k$-te Lösung der Wurzel von $n$
+- $z_k:=\sqrt[n]r(cos(\frac{\varphi+2\pi\cdot k}{n})+i\cdot sin(\frac{\varphi+2\pi\cdot k}{n}))$ beschreibt die $k$-te Lösung der Wurzel von $n$ mit $k\in\{0,...,n-1\}$
