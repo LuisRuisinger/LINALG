@@ -56,7 +56,11 @@ Das Kriterium der Lösbarkeit:
 
 - LGS lösbar $\Leftrightarrow rg(M)=rg(M|b)$
 - das LGS ist lösbar $\Rightarrow$ Anzahl frei wählbarer Variablen $:= \#\text{Variablen}-rg(M)$
-- $(M|b)$ lösbar $\Leftrightarrow\exists_1\text{ lsg}\Leftrightarrow n=r$
+- $(M|b)$ eindeutig lösbar $\Leftrightarrow\exists_1\text{ lsg}\Leftrightarrow rg(M)=n$ mit $\mathbb{R}^n$
+- falls $\exists{\ge 1}:$
+	- anstatt z.B. zu schreiben $x_3=\frac{1}{2}x_4$
+	- setzen wir z.B. $\lambda=x_4\Rightarrow x_3=\frac{1}{2}\lambda$
+
 
 <br>
 
