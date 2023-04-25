@@ -2,7 +2,7 @@
 
 #### Schreibweise als Matrix
 
-$\begin{matrix}     a_{11}x_1 & + & \cdots &+ &a_{1n}x_{1} & = & b_{1}\\     \vdots & + & \ddots &+ &\vdots &= &\vdots\\     a_{m1}x_n & + & \cdots &+ &a_{mn}x_{n} & = & b_{m} \end{matrix}\quad\Rightarrow\quad  \underbrace{\left(\begin{array}{ccc|c}     a_{11} &\cdots &a_{1n} & b_{1}\\     \vdots & \ddots & \vdots & \vdots\\     a_{m1} &\cdots &a_{mn} & b_{m} \end{array}\right)}_{\left(M|b\right)}$
+$\begin{matrix}     a_{11}x_1 & + & \cdots &+ &a_{1n}x_n & = & b_{1}\\     \vdots & + & \ddots &+ &\vdots &= &\vdots\\     a_{m1}x_n & + & \cdots &+ &a_{mn}x_{n} & = & b_{m} \end{matrix}\quad\Rightarrow\quad  \underbrace{\left(\begin{array}{ccc|c}     a_{11} &\cdots &a_{1n} & b_{1}\\     \vdots & \ddots & \vdots & \vdots\\     a_{m1} &\cdots &a_{mn} & b_{m} \end{array}\right)}_{\left(M|b\right)}$
 
 <br>
 
