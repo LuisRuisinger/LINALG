@@ -49,6 +49,10 @@
 >$O(a)=|\langle a\rangle|\Rightarrow$ kleinste Zahl mit $a^n=e$
 >
 >Man nehme ein beliebiges Element $e$ aus einer Gruppe $G$. So gilt, falls $e^{\text{Produkte der Teiler von }\varphi (|G|)}\not\equiv_{|G|} 1\Leftrightarrow e$ ist ein Erzeuger.
+>
+>---
+>
+>$$\forall a\in (K^{n\times n})^\times:\exists_1 a^{-1}\Rightarrow O(a)=O(a^{-1})=n^2$$
 
 <br>
 
