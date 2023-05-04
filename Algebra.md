@@ -48,7 +48,7 @@
 >
 >$O(a)=|\langle a\rangle|\Rightarrow$ kleinste Zahl mit $a^n=e$
 >
->Man nehme ein beliebiges Element $e$ aus einer Gruppe $G$. So gilt, falls $e^{\text{Produkte der Teiler von }\varphi (|G|)}\not = 1\Leftrightarrow e$ ist ein Erzeuger.
+>Man nehme ein beliebiges Element $e$ aus einer Gruppe $G$. So gilt, falls $e^{\text{Produkte der Teiler von }\varphi (|G|)}\not\equiv_{|G|} 1\Leftrightarrow e$ ist ein Erzeuger.
 
 <br>
 
@@ -67,7 +67,7 @@
 
 >[!NOTE] Definition
 >
->$\forall a\in G: a^{|G|}=e$
+>$\forall a\in G: a^{\varphi(|G|)}\equiv_{|G|}e$
 
 <br>
 
