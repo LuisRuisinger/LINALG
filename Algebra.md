@@ -67,14 +67,6 @@
 
 <br>
 
-#### Satz von Euler
-
->[!NOTE] Definition
->
->$\forall a\in G: a^{\varphi(|G|)}\equiv_{|G|}e$
-
-<br>
-
 #### Eulersche Phi-Funktion
 
 >[!NOTE] Definition
@@ -98,10 +90,11 @@
 
 <br>
 
-#### Rechenoperationen
+#### Satz von Euler
 
-- $\overline k+\overline l=\overline{k+l}$
-- $\overline k\cdot\overline l=\overline{kl}$
+>[!NOTE] Definition
+>
+>$$a^{\varphi(n)}\equiv_n1\Leftrightarrow ggT(a,n)=1,\hspace{0.5cm}a,n\in\mathbb{N}$$
 
 <br>
 
@@ -153,6 +146,7 @@
 >
 
 <br>
+
 #### Eigenschaften
 
 - $(\mathbb{Z}_n,+,\cdot)$ ist ein Körper $\Leftrightarrow n\in\mathbb{P}$
